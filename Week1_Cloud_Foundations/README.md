@@ -1,4 +1,4 @@
-##Week1 Cloud Foundations – Basics (Days 6–12)
+## Week1 Cloud Foundations – Basics (Days 6–12)
 
 ## Goal
 
