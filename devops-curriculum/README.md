@@ -53,6 +53,7 @@ Before you go section by section, know this exists: free, browser-based labs tha
 - 📖 [Google SRE Books](https://sre.google/books/) ~ free, full text: *Site Reliability Engineering*, *The SRE Workbook*, *Building Secure and Reliable Systems*
 - 📖 [Atlassian: DevOps Frameworks & DORA Metrics](https://www.atlassian.com/devops/frameworks) ~ culture, CALMS, team topologies
 - 📖 [DORA ~ Get Better at Getting Better](https://dora.dev/) ~ the research behind "what makes high-performing teams"
+- 📖 [Google Cloud's DORA / DevOps research](https://cloud.google.com/devops) ~ free, evidence-based starting point on what makes teams high-performing
 
 ## 2. Linux, Windows & Scripting
 
@@ -66,6 +67,8 @@ Before you go section by section, know this exists: free, browser-based labs tha
 - 🎮 [SadServers](https://sadservers.com/scenarios) ~ real broken Linux servers in a browser, capture-the-flag style troubleshooting scenarios
 - 🎮 [cmdchallenge](https://cmdchallenge.com/) ~ one-line bash challenges, runs in a sandboxed container in your browser
 - 🎮 [Linux Journey](https://linuxjourney.com/) ~ free interactive lessons + in-browser terminal, no signup
+- 📖 [MIT ~ The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) ~ shell, scripting, and tooling
+- 🎮 [learnshell.org](https://www.learnshell.org/) ~ interactive Bash practice
 
 **Resources ~ Windows / PowerShell**
 - 🎮 [PSKoans](https://github.com/vexx32/PSKoans) ~ learn PowerShell by making failing Pester tests pass, koan-style
@@ -93,6 +96,10 @@ Before you go section by section, know this exists: free, browser-based labs tha
 - 🎮 [SadServers ~ Networking scenarios](https://sadservers.com/scenarios) ~ DNS, ports, and firewall troubleshooting on real boxes
 - 📺 [Learn Networking In 25 MINUTES ~ Networking Fundamentals + Cloud Networking Concepts](https://youtu.be/bEFAFHIahXk)
 - 📺 [COMPLETE APIs Crash Course In 14 Minutes (w/ free project)](https://www.youtube.com/watch?v=UXA8MJUWUqU)
+- 📖 [Cloudflare Learning Center ~ What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/)
+- 🎮 [cidr.xyz](https://cidr.xyz/) ~ interactive CIDR / subnet visualizer
+- 📖 [Practical Networking](https://www.practicalnetworking.net/) ~ genuinely great free networking articles
+- 📖 [Julia Evans' blog (jvns.ca)](https://jvns.ca/) ~ approachable deep-dives on DNS, TCP, and debugging
 
 ## 4. System Design
 
@@ -124,6 +131,7 @@ Before you go section by section, know this exists: free, browser-based labs tha
 
 **Resources**
 - 📖 [AWS Skill Builder](https://skillbuilder.aws/) ~ 600+ free digital courses direct from AWS
+- 📖 [AWS Free Tier](https://aws.amazon.com/free/) ~ free-usage limits to actually build on AWS
 - 📖 [Microsoft Learn ~ Azure](https://learn.microsoft.com/en-us/training/azure/) ~ free, end-to-end, including full certification paths
 - 📖 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) ~ free courses + monthly credit for labs
 - 📺 [freeCodeCamp ~ AWS Certified Cloud Practitioner (free course)](https://www.freecodecamp.org/news/aws-certified-cloud-practitioner-certification-study-course-pass-the-exam/) ~ full exam-prep course, taught by Andrew Brown (ExamPro)
@@ -147,6 +155,7 @@ Before you go section by section, know this exists: free, browser-based labs tha
 - 🎮 [Learn Git Branching](https://learngitbranching.js.org/) ~ 50+ levels, animated branch diagrams, simulated terminal, no install
 - 🎮 [git-game](https://github.com/git-game/git-game) ~ terminal game, 10 levels testing real git commands (see also [git-game-v2](https://github.com/git-game/git-game-v2) for advanced features)
 - 📖 [GitHub Skills](https://skills.github.com/) ~ free, hands-on courses run as real GitHub repos (includes Introduction to GitHub, and CI/CD-flavored ones)
+- 📖 [Pro Git book](https://git-scm.com/book) ~ the definitive free reference
 
 ## 7. CI/CD
 
@@ -160,6 +169,8 @@ Before you go section by section, know this exists: free, browser-based labs tha
 - 📺 [CI/CD Crash Course For Beginners ~ Jenkins, GitHub Actions, GitLab](https://youtu.be/ixNNyLcWXX8)
 - 📖 [GitHub Actions documentation](https://docs.github.com/en/actions) ~ build one real pipeline here: test, build, deploy
 - 🎮 [KodeKloud Free Labs](https://kodekloud.com/studio/) ~ browser-based CI/CD and DevOps labs, no local setup
+- 📖 [GitLab CI/CD docs](https://docs.gitlab.com/ee/ci/)
+- 📖 [Atlassian's CI/CD guide](https://www.atlassian.com/continuous-delivery) ~ solid conceptual overview
 
 ## 8. Docker
 
@@ -170,6 +181,7 @@ Before you go section by section, know this exists: free, browser-based labs tha
 - CI builds the image and pushes it to a registry (Docker Hub, ECR)
 
 **Resources**
+- 📖 [Docker's official "Get Started"](https://docs.docker.com/get-started/)
 - 🎮 [Play with Docker](https://labs.play-with-docker.com/) ~ free browser-based Docker playground, no install
 - 🎮 [KodeKloud ~ Docker free labs](https://kodekloud.com/studio/labs/docker) ~ hands-on labs in-browser
 - 📖 [Docker Curriculum by prakhar1989](https://github.com/prakhar1989/docker-curriculum) ~ the tutorial most engineers cut their teeth on; build and deploy an image end to end
@@ -187,6 +199,8 @@ Before you go section by section, know this exists: free, browser-based labs tha
 - 📺 [Kubernetes For AI: Zero To Hero ~ Ultimate Crash Course, Part 2](https://youtu.be/N9utcNfbCPM)
 - 🎮 [Killercoda ~ Kubernetes Playgrounds](https://killercoda.com/playgrounds/scenario/kubernetes) ~ free in-browser cluster, single or multi-node
 - 🎮 [Play with Kubernetes](https://labs.play-with-k8s.com/) ~ free browser-based K8s playground from Docker
+- 📖 [Kubernetes.io official tutorials](https://kubernetes.io/docs/tutorials/)
+- 📖 [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) ~ advanced, for when you're ready to go under the hood
 
 ## 10. DevSecOps
 
@@ -201,6 +215,7 @@ Before you go section by section, know this exists: free, browser-based labs tha
 - 📖 [Trivy documentation](https://trivy.dev/) ~ free, open-source scanner: container images, IaC, secrets, SBOMs, no usage limits
 - 📖 [Gitleaks](https://github.com/gitleaks/gitleaks) ~ free secret-scanning tool, easy to drop into any pipeline
 - 📖 [Snyk](https://snyk.io/) ~ free tier for dependency and container scanning with a web dashboard
+- 📖 [Snyk Learn](https://learn.snyk.io/) ~ free, bite-sized secure-coding lessons
 - 📺 [Kubernetes Security ~ End-To-End DevOps + AIOps Project playlist](https://www.youtube.com/playlist?list=PLXkUFcIv0_b7rzZe0o_2-GOS2qn5-0OQy) ~ the DevSecOps/K8s security leg of the full project series (see [§15 End-to-End Project](#15-end-to-end-project) for the whole build)
 
 ## 11. Infrastructure as Code
@@ -213,6 +228,7 @@ Before you go section by section, know this exists: free, browser-based labs tha
 **Resources**
 - 📖 [HashiCorp Developer ~ Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials) ~ official, hands-on, command-line tutorials across AWS/Azure/GCP
 - 🎮 [KodeKloud ~ Terraform free labs](https://kodekloud.com/studio/) ~ browser-based Terraform practice
+- 📖 [AWS CloudFormation docs](https://docs.aws.amazon.com/cloudformation/) ~ AWS-native way to declare and deploy infra
 
 ## 12. GitOps
 
@@ -226,6 +242,7 @@ Before you go section by section, know this exists: free, browser-based labs tha
 - 📺 [GitOps Crash Course For Beginners ~ ArgoCD & FluxCD](https://youtu.be/xRIre6L_gAo)
 - 📖 [Argo CD documentation](https://argo-cd.readthedocs.io/)
 - 📖 [Flux documentation](https://fluxcd.io/flux/)
+- 📖 [OpenGitOps](https://opengitops.dev/) ~ the core GitOps principles, vendor-neutral
 
 ## 13. Observability
 
@@ -238,6 +255,7 @@ Before you go section by section, know this exists: free, browser-based labs tha
 - 🎮 [play.grafana.org](https://play.grafana.org/) ~ Grafana Labs' public demo instance, explore real dashboards live
 - 🎮 [KodeKloud ~ Prometheus & Grafana Playground](https://kodekloud.com/playgrounds/playground-prometheus-grafana) ~ free browser sandbox, build a dashboard and an alert
 - 📖 [Prometheus ~ Overview docs](https://prometheus.io/docs/introduction/overview/)
+- 📖 [Grafana tutorials](https://grafana.com/tutorials/)
 
 **Certification**
 - [Prometheus Certified Associate (PCA)](https://training.linuxfoundation.org/certification/prometheus-certified-associate/) ~ Linux Foundation/CNCF, 90-min proctored exam, no prerequisites, one free retake included. Discount via [ksug.ai](https://ksug.ai/promos): code **MM26CCAI** for 50% off. Codes rotate ~ verify at checkout.
@@ -253,7 +271,9 @@ Before you go section by section, know this exists: free, browser-based labs tha
 **Resources**
 - 📺 [20+ FREE Courses To MASTER Cloud, DevOps & AI (2026)](https://youtu.be/SG1Lv12YUjU) ~ source for the course list below
 - 📖 [NVIDIA GPU Operator docs](https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/index.html) ~ how GPUs get provisioned and managed inside Kubernetes
-- For the full curriculum on each of these, see this repo's dedicated guides: [MLOps-Practice-Guide](../MLOps-Practice-Guide/), [AIOps-Practice-Guide](../AIOps-Practice-Guide/), [LLMOps-Practice-Guide](../LLMOps-Practice-Guide/)
+- 📖 [Made With ML](https://madewithml.com/) ~ free, project-based MLOps course
+- 📖 [Full Stack Deep Learning](https://fullstackdeeplearning.com/) ~ free course on building & deploying ML products
+- 📖 [Google's MLOps guide](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning) ~ continuous delivery and automation pipelines in ML
 
 **Courses ~ free-to-start, with a certification path attached**
 
