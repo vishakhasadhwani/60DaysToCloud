@@ -3,7 +3,7 @@
 This repository contains the Foundations track for the 60DaysToCloud program. Each week has its own set of steps to follow; with topics, free resources and notes to follow. Also some mini projects that you can build.
 
 Structure:
-- Week1_Cloud_Foundations
+- [Week1_Cloud_Foundations]("/Week1_Cloud_Foundations/README.md")
 - Week2_Linux_Networking
 - Week3_Infrastructure_as_Code
 - Week4_Containers_Kubernetes
